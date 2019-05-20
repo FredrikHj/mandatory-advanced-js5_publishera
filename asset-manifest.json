@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mandatory-advanced-js5_publishera/Auth/static/css/main.888cd3b7.chunk.css",
-    "main.js": "/mandatory-advanced-js5_publishera/Auth/static/js/main.83c0cc3f.chunk.js",
-    "main.js.map": "/mandatory-advanced-js5_publishera/Auth/static/js/main.83c0cc3f.chunk.js.map",
-    "runtime~main.js": "/mandatory-advanced-js5_publishera/Auth/static/js/runtime~main.f27cc865.js",
-    "runtime~main.js.map": "/mandatory-advanced-js5_publishera/Auth/static/js/runtime~main.f27cc865.js.map",
-    "static/js/2.389bdf51.chunk.js": "/mandatory-advanced-js5_publishera/Auth/static/js/2.389bdf51.chunk.js",
-    "static/js/2.389bdf51.chunk.js.map": "/mandatory-advanced-js5_publishera/Auth/static/js/2.389bdf51.chunk.js.map",
-    "index.html": "/mandatory-advanced-js5_publishera/Auth/index.html",
-    "precache-manifest.3cd29d678cc78bc0501ca60415fc58a0.js": "/mandatory-advanced-js5_publishera/Auth/precache-manifest.3cd29d678cc78bc0501ca60415fc58a0.js",
-    "service-worker.js": "/mandatory-advanced-js5_publishera/Auth/service-worker.js",
-    "static/css/main.888cd3b7.chunk.css.map": "/mandatory-advanced-js5_publishera/Auth/static/css/main.888cd3b7.chunk.css.map"
+    "main.css": "/mandatory-advanced-js5_publishera/static/css/main.888cd3b7.chunk.css",
+    "main.js": "/mandatory-advanced-js5_publishera/static/js/main.4e5b33ff.chunk.js",
+    "main.js.map": "/mandatory-advanced-js5_publishera/static/js/main.4e5b33ff.chunk.js.map",
+    "runtime~main.js": "/mandatory-advanced-js5_publishera/static/js/runtime~main.fddf9744.js",
+    "runtime~main.js.map": "/mandatory-advanced-js5_publishera/static/js/runtime~main.fddf9744.js.map",
+    "static/js/2.389bdf51.chunk.js": "/mandatory-advanced-js5_publishera/static/js/2.389bdf51.chunk.js",
+    "static/js/2.389bdf51.chunk.js.map": "/mandatory-advanced-js5_publishera/static/js/2.389bdf51.chunk.js.map",
+    "index.html": "/mandatory-advanced-js5_publishera/index.html",
+    "precache-manifest.d5a9321f6213a8f8b9c8c8f266a49250.js": "/mandatory-advanced-js5_publishera/precache-manifest.d5a9321f6213a8f8b9c8c8f266a49250.js",
+    "service-worker.js": "/mandatory-advanced-js5_publishera/service-worker.js",
+    "static/css/main.888cd3b7.chunk.css.map": "/mandatory-advanced-js5_publishera/static/css/main.888cd3b7.chunk.css.map"
   }
 }
